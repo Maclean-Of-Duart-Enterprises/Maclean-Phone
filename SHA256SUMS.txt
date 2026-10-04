@@ -1,0 +1,5 @@
+d20e4eeda05036c168cbd68969c97d0d333e9f64c38697e6758f1606ab813cbf  Maclean-Phone-1.4.6-universal.apk
+c1e6eb7d967bf92c8aa8cfc3baf92f9cecaf48e0935f070a0533934640f9664e  Maclean-Phone-1.4.6-Source.zip
+f4df4c8a7286ad5347cdafdca74a270ef32926a5503ba36b88605486439f4f93  Maclean-Phone-1.4.6-Release-Notes.md
+9fed6f0195e7096cfdd72543eec120b0e7b1fcadd9d79548ab4a04fc53a18865  Maclean-Phone-1.4.6-Build-Verification-Report.md
+ed5df7e36186773987941f5af7bedd29e8a640e9302185924a858229e316c86a  Maclean-Phone-1.4.6-Home-Navigation-and-Favorites-Test-Report.md
