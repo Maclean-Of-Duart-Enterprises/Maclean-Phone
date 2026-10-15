@@ -1,0 +1,5 @@
+57fb04461849930a3dc1037f4669eaf9ffc51d88876a0c751035ba09be59bdc7  Maclean-Phone-1.4.7-universal.apk
+575b7f004cddb53d961f92b9df90195c37f70ecadccf4f719d5de50705f5f7fd  Maclean-Phone-1.4.7-Source.zip
+59031596a8b5f2059c5869627eaa35b590b168c08c3fc8a3836255e4d7845170  Maclean-Phone-1.4.7-Release-Notes.md
+3497a08a3f608fec08161769b0bb766b522792f95b58046b1548911a74702258  Maclean-Phone-1.4.7-Build-Verification-Report.md
+c25bd485542017539653ee6050f900b784488b762ac13084a3e218e9e760f164  Maclean-Phone-1.4.7-Internal-Add-Contact-Test-Report.md
